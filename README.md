@@ -9,10 +9,10 @@
 
 ---
 
-## ⚡ **About Me — AI Generated Summary**
+## ⚡ **About Me**
 
 > 🚀 A passionate developer blending **React Frontend**, **Python AI/ML**, and **Django backend** to build real-world, intelligent applications.  
-> 🎯 Focused on **Gen-AI Applications**, **Voice-based Interfaces**, **Chatbots**, and **Full-Stack Development**.  
+> 🎯 Focused on **Gen-AI Applications**,**Agentic AI** **Voice-based Interfaces**, **Chatbots**, and **Full-Stack Development**.  
 > 🌱 Currently building AI-powered apps that impact real users and solve actual business problems.
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-# 🛠️ **Tech Stack (Animated Icons)**
+# 🛠️ **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,html,css,bootstrap,git,github,django,flask,figma,postgres,mysql,mongodb,tensorflow,pytorch,opencv,postman,aws&perline=10&theme=light" />
@@ -40,7 +40,7 @@
 
 ---
 
-# 🚀 **Animated GitHub Stats**
+# 🚀 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=linga-varaprasad&show_icons=true&theme=radical&count_private=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=linga-varaprasad&theme=radical" width="48%">
@@ -52,32 +52,27 @@
 
 ---
 
-# 🌐 **Animated Contribution Graph**
+# 🌐 **Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=linga-varaprasad&theme=tokyo-night" />
 </p>
 
 ---
 
-# 🐍 **Snake Animation (Auto-Updating)**
+# 🐍 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
 
-# 🤖 **AI Highlights (Dynamic Generated Content)**
+
 
 ### ✨ **My AI Projects**
-- 💳 Voice-Based AI Payment App using **React + Django + Speech AI**
 - 🧠 Fashion Domain Chatbot using **NLP + Custom Dataset**
 - 🏋️ FitPlano AI — Personalized diet & workout generator  
-- 📚 ShareApp — Real-life stories & review platform  
-- 🎙 AI Podcast Creator — Auto script + auto voice generation  
-
+- 📚 ShareApp — Real-life stories & review platform   
 ---
-
-# ⭐ **Live Typing Animation — What I Am Learning**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFD700&center=true&width=600&lines=Advanced+React+Patterns;Deep+Learning;LLM+Applications;Django+REST+Framework;Fullstack+AI+Development;Cloud+Deployments+with+AWS" />
